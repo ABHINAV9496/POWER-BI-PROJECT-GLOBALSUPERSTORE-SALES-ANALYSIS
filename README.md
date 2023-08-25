@@ -26,7 +26,18 @@ Power BI Desktop
 7. Add slicers, filters, and dropdowns to allow users to interact with the data.
 8. Review your visualizations, interactions, and data accuracy.
 9. Test the dashboard to ensure all features work as intended.
-10. Finally save the Powerbi file.
+10. Finally save the PowerBi file.
+
+# Data Source    
+The data used for this dashboard is sourced from our Global Superstore database. It includes information on orders, returns, customers, products, and sales.
+
+# Video Explanation
+To provide a more interactive and detailed explanation of the visualizations and insights in this report, a video has been created that walks through the different components of the report. The link for viewing the video is: https://drive.google.com/file/d/1S-UqnLOg97K62zgAzam5xh_C7txZIdML/view?usp=drive_link
+
+# Conclusion
+In Conclusion our Global Superstore Sales Analysis Dashboard, By segmenting the visuals based on location and analyzing the data by shipmode, city, state, region, and market, users can gain valuable insights to make informed decisions.
+
+
 
    
    
