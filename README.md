@@ -7,3 +7,8 @@ This is a Sales Analysis report created using Power BI, which provides detailed 
 3. Donut pie chart showcasing sales distribution by Market and percentage of shipping based on ship mode.
 4. Pie chart showcasing the total sales over the countries.
 5. Stacked Bar chart displaying the total sales over by state.
+6. Profit and sales by region is displayed using stacked area chart.
+7. Total sales by market and region is also displayed using the stacked bar chart.
+8. Line and stacked coloumn chart is used to visualise the sales and profit over the years.
+9. 
+   
