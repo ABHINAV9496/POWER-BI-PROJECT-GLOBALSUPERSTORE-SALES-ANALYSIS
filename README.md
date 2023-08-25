@@ -14,7 +14,9 @@ Power BI Desktop
 6. Profit and sales by region is displayed using stacked area chart.
 7. Total sales by market and region is also displayed using the stacked bar chart.
 8. Line and stacked coloumn chart is used to visualise the sales and profit over the years.
+
 # Steps Involved
+
 1. Import the data
 2. Data Transformation and Data cleaning to remove duplicate data.
 3. create different measures that helps us to calculate values based on each row.
