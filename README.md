@@ -35,7 +35,7 @@ The data used for this dashboard is sourced from our Global Superstore database.
 To provide a more interactive and detailed explanation of the visualizations and insights in this report, a video has been created that walks through the different components of the report. The link for viewing the video is: https://drive.google.com/file/d/1S-UqnLOg97K62zgAzam5xh_C7txZIdML/view?usp=drive_link
 
 # Conclusion
-In Conclusion the Global superstore sales analysis the visuales are classified based on location and analyzing the data by shipmode, city, state, region, and market, users can gain valuable insights to make informed decisions.The analysis has illuminated crucial aspects of our business, enabling us to make informed decisions and drive growth.
+In Conclusion the Global superstore sales analysis dashboard are classified and analysed based on the data by shipmode,country,city, state, region, and market, users can gain valuable insights to make informed decisions.The analysis has illuminated crucial aspects of our business, enabling us to make informed decisions and drive growth.
 
 
 
